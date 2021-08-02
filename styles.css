@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+body{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+  margin-left:39%;
+  margin-bottom:2%;
+  display:inline-block;
+  width:auto;
+}
+input{
+  margin-left:10%;
+  margin-bottom:1.5%;
+  width:250px;
+  height:40px;
+  border-radius:10px;
+  text-align:center;
+  display:inline-block;
+  font-size:20px;
+  background-color:#99ff33;
+}
+label{
+  font-size:20px; 
+  margin-left:10%;
+}
+#img{
+  margin-left:10.3%;
+}
+#qua{
+  margin-left:9.2%;
+}
+#btn{
+  margin-left:33%;
+  width:100px;
+  padding:0.4rem;
+  text-align:center;
+  font-size:15px;
+  border-radius:0.8rem;
+  cursor:pointer;
+  height:3.5rem;
+  margin-bottom:1%;
+  font-size:20px;
+  background-color: #a40606;
+background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+
+}
+#im{
+  display:inline;
+  height:400px;
+  margin-top:0;
+  absolute-width:700px;
+  margin-left:33%;
+  margin-bottom:2%;
+  width:45%;
+}
+#op,#op1,#op2,#op3{
+  display:inline;
+  color:#a40606;
+}
+#op{
+  font-size:20px;
+  font-weight:bold;
+  margin-top:10%;
+  margin-left:15%;
+}
+#op1,#op2,#op3{
+  font-size:20px;
+  font-weight:bold;
+}
+li{
+  list-style:none;
+  display:inline-block;
+  padding:0.5rem; 
+}
+footer{
+  max-width:500px;
+  max-height:95px;
+  margin:auto;
+  margin-left:37%;
+  padding-top:2%;
+}
